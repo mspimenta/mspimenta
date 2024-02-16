@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @mspimenta
-- 👀 I’m interested in programming and music.
+- 👀 I’m interested in programming!
 - 🌱 I’m currently learning front-end development and plan to move on to back-end, wanting to be fullstack developer.
 - 💞️ I’m looking to collaborate on building a strong portfolio for a programming opportunity, whether it's an internship or junior developer position.
 - 📫 How to reach me: +55 (35) 99768-7799
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I play multiple musical instruments and aspire to delve deeper into music theory in the future, on free occasions.
+- ⚡ Fun fact: I play some musical instruments and aspire to delve deeper into music theory in the future, on special occasions, in my free time.
 
 <!---
 mspimenta/mspimenta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
