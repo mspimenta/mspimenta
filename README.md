@@ -5,6 +5,8 @@
 - 📫 How to reach me: +55 (35) 99768-7799
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play some musical instruments and aspire to delve deeper into music theory in the future, on special occasions, in my free time.
+- 🔜 Follow me on DIO, the platform where I take programming and English courses, and acquire my certifications. (Public profile: https://www.dio.me/users/mateus_pimenta)
+- 🔝 Find out more about me on LinkedIn. (https://www.linkedin.com/in/mateus-pimenta-3a2179218/)
 
 <!---
 mspimenta/mspimenta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
